@@ -1,0 +1,70 @@
+div {
+    background-color: rgba(86, 182, 173, 0.975);
+    border-radius: 30px;
+    text-align: center;
+    border: 4px solid #ff0000;
+    width: 1500px;
+}
+
+.kkk {
+    color: green;
+}
+
+.ddd {
+    color: rgb(44, 151, 98);
+}
+
+.jjj {
+    color: aquamarine;
+}
+
+.ggg {
+    color: aqua;
+}
+
+.hhh {
+    color: chocolate;
+}
+
+table,
+tr,
+th,td
+{
+border: 1px solid black;
+}
+table,
+th,
+td,
+tr{
+            border: 1px solid black;
+            width: 500px;
+            border-collapse: collapse;
+}
+.yyy{
+    background-color: red;
+}
+.ppp{
+    background-color: yellow;
+}
+.iii{
+    background-color: green;
+}
+.ooo{
+    background-color: blueviolet;
+}
+.uuu{
+    background-color: chartreuse;
+    width: 200px;
+}
+.WWW{
+    width: 300px;
+}
+.fff{
+    width: 300px;
+}
+.aaa{
+    width: 300px;
+}
+.eee{
+    width: 300px;;
+}
